@@ -1,0 +1,27 @@
+title {
+  color:red;
+
+}
+
+h1{
+  color:green;
+  font-weight:bold;
+  font-size:2em;
+  font-color:#ffffff;
+  font-family:'Trebuchet MS', sans-serif;
+
+}
+h2{
+  color:blue;
+  font-family:'Trebuchet MS', sans-serif;
+}
+h3{
+  color:red;
+  font-family:'Trebuchet MS', sans-serif;
+}
+p{
+  font-family:'Trebuchet MS', sans-serif;
+}
+body{
+  background-color:honeydew;
+}

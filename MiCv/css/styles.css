@@ -1,0 +1,191 @@
+
+/*
+  Disenio de la estructura contenedora
+  Aca solo tiene que haber estilos para acomodar las cajas contenedoras de contenido.
+*/
+
+/* Reseteo de todo*/
+* {
+margin: 0px;
+}
+
+/*
+Contenedor principal
+*/
+.contPcipal{
+  width: 100vw;
+  height: 100vh;
+  min-width: 500px;
+  min-height: 350px;
+  float: left;
+}
+
+/*
+Titulo Principal
+*/
+.titulo{
+  height: 10vh;
+  width: 100%;
+  font-size: 300%;
+  font-weight:bold;
+  font-family:'Trebuchet MS', sans-serif;
+  text-align:center;
+}
+
+/*
+Cuerpo
+ */
+.cuerpo{
+  height: 85vh;
+}
+/*
+Izquierda
+ */
+.ladoIzquierdo{
+  float: left;
+  width: 30%;
+  height: 100%;
+}
+
+/*La idea de este es darle el estilo para los iconos del Portfolio.
+10% a cada uno ya que van a ser 10
+*/
+.leftFooter.cuerpo{
+  width: 100%;
+  height: 5vh;
+  clear:both;
+}
+
+.leftFooter.titulo{
+  width: 100%;
+  height: 5vh;
+  clear:both;
+}
+
+/*
+derecha
+ */
+.ladoDerecho{
+  width: 70%;
+  height: 100%;
+  float: right;
+  overflow-y: scroll;
+
+}
+/*
+Footer
+ */
+.pie{
+  width: 100%;
+  height: 5vh;
+  clear:both;
+}
+
+/*
+  Estilos para el contenido:
+  Aca solo va a haber estilo para poner lindo el contenido,  darle formato, y presentacion
+ */
+
+/*Titulo Principal */
+h1{
+  font-color:#ffffff;
+  align-content:center;
+}
+
+/*
+Imagen
+ */
+.imagen{
+  width: 70%;
+  height: 30%;
+
+}
+.foto{
+  padding: 3%;
+
+}
+a {
+  display: grid;
+  padding-left: 10%;
+  text-decoration: none;
+}
+
+/*
+Titulo Secundario
+ */
+h2{
+  color:blue;
+  font-family:'Trebuchet MS', sans-serif;
+  align-content: center;
+}
+/*
+Titulo Terciario
+ */
+h3{
+  color:red;
+  font-family:'Trebuchet MS', sans-serif;
+}
+/*
+Parrafo
+ */
+
+p{
+
+  font-family:'Trebuchet MS', sans-serif;
+}
+
+
+
+p a {
+  display: inline-block;
+  width: 50px;
+  text-decoration: none;
+}
+
+
+div h2{
+  text-align: center;
+  margin: 10px;
+}
+
+div h3{
+  text-align: center;
+  margin: 10px;
+}
+div p{
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+/*
+  Diseno de formato mas detallista:
+Aca solo va a haber estilos para poner bonito el formato y look & feel de la pagina
+ */
+
+
+
+
+/*
+  Herramientas de manejo de pantalla:
+
+Aca solo va a haber contenido para adaptar la pantalla al dispositivo que la llame.
+
+Se armara varias pantallas para soportar  distintos dispositivos y posiciones(para el caso de mobile: apaisado o en vertical).
+
+Se especificara el lineado de adaptacion por variacion de la pantalla
+ */
+ .flex-container {
+   display: flex;
+   flex-wrap: nowrap;
+   background-color: DodgerBlue;
+   flex-direction: column;
+ }
+
+ .flex-container .tittle {
+  background-color: red;
+  width: 100px;
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+}

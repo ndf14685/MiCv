@@ -1,0 +1,206 @@
+Izquierda
+
+<div id="foto">
+
+  <img class="imagen" src="images/fotoCV.jpg"/>
+
+</div>
+<div id="menu">
+  <h2><a href="#infoPersonal">Información personal</a></h2>
+  <h2><a href="#educacion">Educación</a></h2>
+  <h2><a href="#perfil">Perfil Profesional y Objetivos</a></h2>
+  <h2><a href="#expLaboral">Experiencia laboral</a></h2>
+  <h2><a href="#skill">Skill técnico</a></h2>
+  <h2><a href="#conoc">Conocimientos</a></h2>
+
+</div>
+
+
+
+
+DERECHA
+
+<div id="infoPersonal">
+  <h2>Información personal</h2>
+  Estado civil: Soltero
+  Nacionalidad: Argentino
+  Fecha de Nac.: 14/06/1985
+  DNI: 32.060.255
+  CUIL: 20-32060255-7
+  Pasaporte: 32.060.255N (Visa USA vigente)
+  Dirección: Espinosa 44 2 G - CABA
+  Teléfono:   15-3074-8591
+  Email: david.fleitas@gmail.com
+</div>
+<div id="educacion">
+  <h2>Educación</h2>
+  <h3>2013 – Actualmente</h3>
+
+  U.T.N. Facultad Regional Buenos Aires
+  1º a 3º Año de la Carrera Ingeniería Industrial
+
+  <h3>2003 – 2012</h3>
+  U.T.N. Facultad Regional Avellaneda
+  1º a 3º Año de la Carrera Ingeniería Industrial
+
+  <h3>2000-2002</h3>
+  E.E.T. Nº 9 Ing. Torcuato Di Tella  - Avellaneda
+  Técnico en Informática
+</div>
+<div id="perfil">
+  <h2>Perfil Profesional y Objetivos</h2>
+
+  <p>Poseo un perfil técnico, con experiencia administrativa, así como también experiencia en sistemas en varias consultoras. Además cuento con experiencia personal en el mantenimiento y reparación de computadoras y de redes informáticas, instalación de SO de servidores (RedHat, Solaris) y  programación web (Java) y  móvil  (Android, Blackberry).</p>
+  Mi interés es continuar mi desarrollo en su empresa, teniendo la posibilidad de contribuir al crecimiento de la misma adquiriendo nuevas herramientas que permitan desempeñarse de la mejor manera posible y así aplicando mis conocimientos, obtener logros que aumenten la productividad del sector en el que me desempeñe.
+  Soy una persona proactiva, y dispuesta al aprendizaje de nuevas herramientas que permitan optimizar mi desempeño y mi carrera profesional, así como también soy una persona que sabe escuchar y aceptar una crítica.</p>
+
+</div>
+<div id="expLaboral">
+  <h2>Experiencia laboral</h2>
+
+  10/2017 – Actualmente:
+  Tata Consultancy Service SA
+
+
+  <p>Analista desarrollador Java Sr Middleware
+    Análisis y desarrollo de documentación técnica y funcional, Programación en lenguaje JAVA, Integración SOA. Ide: RTC, IID (IBM), SoapUI .
+    Integración de módulos a través de conectores contra Middleware ESB (IBM).
+
+
+    Cliente / Proyecto: HSBC - Equipo de Middleware(On Site)
+
+
+    Dirección: Av. Martin Garcia 464 – Cap. Fed.
+  </p>
+
+  10/2014 – 09/2017:
+  Huenei SA
+
+
+  Analista desarrollador Java Ssr en Area de Arquitectura
+  <p>Análisis y desarrollo de documentación técnica y funcional, Programación en lenguaje JAVA. Ide: Eclipse.
+    Integración de módulos a través de conectores contra Middleware ESB (IBM).
+    Investigación de nuevas tecnologías Open source: Couchdb, Node Js, Angular JS, ElasticSearch logstash y Kibana, Jenkins.  Migración de nuevas versiones.
+    Cliente / Proyecto: Gerencia de Sistemas - Banco Credicoop (On Site)
+
+    Dirección: Maipu 66 – Cap. Fed.
+  </p>
+
+  08/2013 – 10/2014:
+  Pragma Consultores
+
+
+  Consultor JAVA SOA – OSB (Oracle)
+  <p>Análisis y desarrollo de documentación técnica y funcional, Programación en lenguaje JAVA. Desarrollo SOA, Ide: Eclipse,  OEPE, JDeveloper. Tomcat. Oracle Service Bus (OSB), Weblogic.
+    Integración de módulos comerciales, utilizando OSB, BPel, WebServices, Spring, EJB.
+    Soporte Migración, Gestión de incidencias.
+    Cliente / Proyecto: Telefónica-Movistar
+
+    Dirección: San Martin 550 – Cap. Fed.
+  </p>
+
+  07/2012 – 07/2013:
+  Alcatel-Lucent
+
+
+  Consultor JAVA
+  <p>Análisis y desarrollo de documentación técnica y funcional, Programación en lenguaje JAVA, JavaScript, JSP, Android. Ide: Eclipse, Tomcat. Weblogic.  Customización de aplicaciones de gestión de Redes: HDM, CSC, MDM. Instalacion de Servidores RedHat. Desarrollo en Java, android. WebServices, SoapUi.
+    Investigación de nuevas herramientas y documentación técnica / funcional.
+    Metodologías Agiles - Scrum
+    Cliente / Proyecto: Telefónica
+
+    Dirección: Av. Vieytes  1710 – Cap. Fed.
+  </p>
+
+  08/2011 – 07/2012:
+  Everis SA
+
+
+  Consultor JAVA
+  <p>Análisis y desarrollo de documentación técnica y funcional, Programación en lenguaje JAVA, con Herramientas WEB, Hibernate, etc.
+    Cliente / Proyecto: Telefónica – Movistar;
+
+    Dirección: Av. Garay 650 – Cap. Fed.
+  </p>
+  09/2008 – 06/2009:
+  Accenture S.A. – Rosario
+
+
+  Desarrollador Cobol
+  <p>Realice tareas de programación en lenguaje Cobol en diversos Proyectos asignados;
+    Experiencia con Herramientas Cobol en entorno Mainframe, JCL, DB2;
+
+    Dirección: Av. Santa Fe 1047 – Rosario (Sta. Fe)
+
+  </p>
+  03/2007 – 03/2008:
+  TGV Excelencia en Soluciones Informáticas S.A.
+
+
+  Desarrollador Java
+  <p>Realice tareas de programación en lenguaje Java en diversos Proyectos asignados. Utilización de Herramientas Web, Jsp, Servlets y Struts. Manejo de SQL, Cvs, JavaScript y HTML;
+
+    Dirección: Av. Rivadavia 413 6º  - Capital Federal (Bs. As.)  Tel: 4345-5999
+
+  </p>
+  05/2004 – 12/2006:
+
+  DMD Compresores de  Deleo Favio Adrián y Deleo Marina Lorena S.H.
+
+  Administrativo  de Ventas
+  <p>Realice tareas administrativas contables y seguimiento de Clientes por Cobranzas;
+
+    Dirección: R. de Escalada 2187, V. Alsina – Lanús O. (Bs. As.)  Tel: 011-4209-3096
+
+  </p>
+
+</div>
+<div id="skill">
+  <h2>Skill técnico</h2>
+
+  <p>    Sistemas: Windows, Linux, RedHat, Solaris;
+    Tecnologías :  Java, J2ee, JSP, JSF, Servlets, Struts, Hibernate, EJB, Spring MVC, Spring Batch, HTML XHTML, CSS, JavaScript, Angular JS, Node Js, CouchDB, Jenkins; SOA XML, Rest (Json), C++ 1.1, Visual Basic 6, Asp.Net 1.1, COBOL, JCL, Mainframe, Bash, ssh;
+    IDE: Eclipse, Dreamweaver, JBuilder;
+    Server: Tomcat, Apache, Webshere, Oracle Weblogic;
+    Database: Oracle, MS SQL Server 2K/2K5, MySQL, DB2;
+    Experiencia en sistemas de:
+    Telecomunicaciones (Actualmente - Java)
+    Entidades Financieras (Cobol)
+    Herramientas: TAM – Webseal, RAD, Protocolo LDAP, OpenJPA.
+    Otros: Android, Herramientas de programación de aplicaciones Blackberry (HTML5, CSS, Cascade)
+  </p>
+
+</div>
+<div id="conoc">
+  <h2>Conocimientos</h2>
+
+  <p>- Ingles: Oral y escrito – Intermedio
+  </p>
+  <h2>Cursos  </h2>
+  <p>    IAFI (Actualmente):
+    - PNL  (04/2016 - 12/2016);
+    Educacion Biz:
+    -  Negociación y comunicación efectiva (10/2015);
+    - Programación NeuroLinguistica (12/2015);
+
+    Educacion IT:
+    -  Programación en Android;
+    -  Angular JS;
+    - Patrones de diseño;
+    -  Java Standard Programming, J2SE 7.0;
+    - Java Web: Servlets, JSP, JSTL, Struts & AJAX;
+    - UML y UP: Analisis y diseño Orientados a Objetos;
+    - Java WebServices;
+    - Java Advanced Programming;
+    - Java Hibernate;
+    -  Seminario de ASP.NET MVC ;
+
+    Taller de Blackberry:
+    -  HTML5, Cascades y CSS5, Native C/C++, Adobe Air;
+    Escuela Accenture(08/2008) (Rosario):
+    - Lenguaje Cobol, Mainframe, DB2,  JCL; Lenguaje SQL; Capacitación Normas CMMI; Introducción Unix
+    Instituto LIFIA (03/2007) – Bs. As.:
+    - Introducción a Objetos; Diseño Orientados a Objetos; Desarrollo de Aplicaciones Web, con JSP Servlets y Struts; Taller de Desarrollo de Aplicaciones con Eclipse, CVS y Java; Java Básico;
+  </p>
+
+</div>
