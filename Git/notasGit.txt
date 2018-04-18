@@ -1,0 +1,31 @@
+Git:
+
+Para definir / crear repositorio git local:
+git init
+
+Para saber en que estados estan
+git status
+
+Para conocer todos los branchs existentes:
+git branch
+
+Crear branch:
+git checkout -b nuevoBranch
+
+Volver al master o cambiar de branch:
+git checkout master
+
+
+Agregar todo:
+git add .
+o git add --all
+
+Mostrar todas las modificaciones de todos los archivos:
+git diff
+
+Mostrar archivo especifico:
+git diff archivoEspecifico
+
+
+Para el caso de que haya agregado algo y me arrepienta:
+git reset
