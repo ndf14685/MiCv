@@ -1,0 +1,38 @@
+Guia para descargar proyecto de git:
+
+Primero tienen que tener un usuario de git. Para eso vayan a github y registrense eso les creara un usuario git.
+
+Ojoooo, guardense el usuario y la contrasena!! Porque son los que utilizaremos para localmente conectarnos a github.
+
+```
+https://github.com/
+```
+
+Recuerden git es la aplicacion y github es la plataforma web.
+
+Una vez que estan registrados y tienen lo anterior:
+
+vamos a configurar Git localmente.
+https://git-scm.com/downloads
+
+Entiendo que tienen windows, descarguen e instalen la app que tiene la terminal para laburar desde windows.
+
+Imagino que al instalar la terminal, les va a pedir el usuario y la pass.
+
+<<<< Hasta aca terminan configuracion local de git >>>>
+
+Para conectar a un repositorio externo como ser github, lo que tienen que hacer es obtener la url del repositorio:
+
+Para mi repositorio la url es esta:
+
+https://github.com/ndf14685/MiCv.git
+
+Antes de seguir...
+
+Desde la terminal posicionense en un directorio que que hayan creado para descargar el repo.
+
+Una vez posicionados:
+
+git clone https://github.com/ndf14685/MiCv.git
+
+esto que hace, le dice con git, cloname el repo en tal ubicacion... pero ojo no solo lo descarga y les crea una copia local, sino que tambien los deja enlazados a github, como para trabajar de forma colaborativa sobre el proyecto. 
